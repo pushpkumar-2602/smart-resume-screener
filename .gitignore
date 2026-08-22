@@ -5,3 +5,4 @@ data/*.db
 .env
 data/resumes/
 data/screener.db
+.agents/skills/developing-with-streamlit
